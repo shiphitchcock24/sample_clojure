@@ -1,6 +1,6 @@
 # Language setting
 language: clojure
-build_image: drydock/u14clo:tip
+build_image: drydock/u14clopls:tip
 
 lein:
   - lein2
