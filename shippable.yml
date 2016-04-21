@@ -10,15 +10,7 @@ build:
    - cd sample
    - lein test2junit
 
-integrations:
-  
-  notifications:
-        - integrationName: email
-          type: email
-          recipients:
-            - revathi@shippable.com
-          on_start: always
-          on_success: always
+
 
 
 
