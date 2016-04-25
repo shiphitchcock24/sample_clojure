@@ -10,7 +10,7 @@ build:
    - cd sample
    - lein test2junit
 
-
+ 
 
 
 
