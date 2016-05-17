@@ -59,4 +59,4 @@ integrations:
 # Running the test with Leiningen
 #script:
  # - cd sample
-  #- lein test2junit
+  #- lein test2junit  
